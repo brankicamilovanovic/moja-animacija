@@ -4,4 +4,4 @@
 mozete da vidite ovde moju animacij
 
 
-<img src="https://brankicamilovanovic.github.io/moja-animacija/" </
+<img src="https://brankicamilovanovic.github.io/moja-animacija/" />
